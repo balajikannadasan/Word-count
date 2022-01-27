@@ -41,4 +41,4 @@ print("Number of words = ",num_of_words)
 
 
 ## RESULT:
-Thus the program is written to find the word count from a text.
+Thus the program is written to find the word count from a file.
