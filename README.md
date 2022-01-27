@@ -36,7 +36,7 @@ print("Number of words = ",num_of_words)
 
 ![output](./terminal.png)
 
-![output](./program.png)
+![output](./program1.png)
 
 
 
